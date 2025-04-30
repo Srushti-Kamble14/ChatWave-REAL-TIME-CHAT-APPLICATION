@@ -57,11 +57,11 @@ frontend/ ├── public/ │ └── index.html ├── src/ │ ├─�
    git clone https://github.com/Srushti-Kamble14/ChatWave-REAL-TIME-CHAT-APPLICATION.git <br>
    cd ChatWave-REAL-TIME-CHAT-APPLICATION <br>
 <br>
-2.Install all dependencies: npm install 
+2.Install all dependencies: npm install  <br>
 
-3.Start the development server: npm run dev
+3.Start the development server: npm run dev <br>
 
-4.Open the application in your browser at:http://localhost:5173
+4.Open the application in your browser at:http://localhost:5173 <br>
 
 <hr>
 🔗 Required NPM Packages
@@ -84,11 +84,6 @@ npm install @vitejs/plugin-react <br>
 🔗 OUTPUT
 <br>
 <br>
-
-![Image](https://github.com/user-attachments/assets/49d4e352-9325-4adc-8857-bfca7e32a39b)
-![Image](https://github.com/user-attachments/assets/4b16f4f2-c112-4ff6-8412-3cf2a6041a84)
-![Image](https://github.com/user-attachments/assets/524649e4-b921-45ad-bb8a-3758c432a9eb)
-![Image](https://github.com/user-attachments/assets/c683aa53-e1a3-4fa0-92e1-047aade66ec7)
 
 | **Landing Page** | **Chat Page** |
 |:---:|:---:|:---:|
