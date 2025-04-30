@@ -55,7 +55,7 @@ frontend/ ├── public/ │ └── index.html ├── src/ │ ├─�
 <br>
 1. Clone the repository:
    git clone https://github.com/Srushti-Kamble14/ChatWave-REAL-TIME-CHAT-APPLICATION.git <br>
-   cd ChatWave-REAL-TIME-CHAT-APPLICATION
+   cd ChatWave-REAL-TIME-CHAT-APPLICATION <br>
 
 2.Install all dependencies: npm install 
 
@@ -76,9 +76,9 @@ Ensure the following packages are installed: <br>
 •autoprefixer <br>
 <br>
 Install them with:<br>
-npm install react-router-dom gsap
-npm install -D tailwindcss postcss autoprefixer
-npm install @vitejs/plugin-react
+npm install react-router-dom gsap <br>
+npm install -D tailwindcss postcss autoprefixer <br>
+npm install @vitejs/plugin-react <br>
 
 <hr>
 🔗 OUTPUT
