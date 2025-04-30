@@ -85,11 +85,16 @@ npm install @vitejs/plugin-react <br>
 <br>
 <br>
 
-| **Landing Page** | **About Page** | **Quiz Page** |
+![Image](https://github.com/user-attachments/assets/49d4e352-9325-4adc-8857-bfca7e32a39b)
+![Image](https://github.com/user-attachments/assets/4b16f4f2-c112-4ff6-8412-3cf2a6041a84)
+![Image](https://github.com/user-attachments/assets/524649e4-b921-45ad-bb8a-3758c432a9eb)
+![Image](https://github.com/user-attachments/assets/c683aa53-e1a3-4fa0-92e1-047aade66ec7)
+
+| **Landing Page** | **Chat Page** |
 |:---:|:---:|:---:|
-| ![Landing](https://github.com/user-attachments/assets/82874c6c-f030-433a-aa49-85c9d71160e2) | ![About](https://github.com/user-attachments/assets/d87dd9f2-0293-4e46-a7f0-0ce367734e34) | ![Quiz]( https://github.com/user-attachments/assets/41b77edc-7796-400a-9846-2987c4e2b08f)|
+| ![Landing](https://github.com/user-attachments/assets/49d4e352-9325-4adc-8857-bfca7e32a39b) | ![About]() | ![Quiz](https://github.com/user-attachments/assets/4b16f4f2-c112-4ff6-8412-3cf2a6041a84)|
 
 
-| **Dashboard** | **Signup Page** | **Contact Page** |
+| **Login Page** | **Signup Page** |
 |:---:|:---:|:---:|
-| ![Dashboard](https://github.com/user-attachments/assets/8532f858-0545-4f1f-bd6c-852fb88969cd) | ![Signup](https://github.com/user-attachments/assets/3c77bcbf-dd28-42d0-b528-31a6e04ed18b) | ![contact](https://github.com/user-attachments/assets/c0d071af-cf09-4e6a-a603-815be4180c97) |
+| ![Dashboard](https://github.com/user-attachments/assets/524649e4-b921-45ad-bb8a-3758c432a9eb) | ![Signup](https://github.com/user-attachments/assets/c683aa53-e1a3-4fa0-92e1-047aade66ec7) | 
